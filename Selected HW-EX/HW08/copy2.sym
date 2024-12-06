@@ -1,0 +1,11 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	ANIMALS           0204
+//	START             0200
+//	$               0200
+//	$               0201
+//	$               0202
+//	$               0203
+

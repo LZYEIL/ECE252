@@ -1,0 +1,28 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	NBITS             300E
+//	CONVERT           3007
+//	GETKEY            3005
+//	ASCIIDIFF         300D
+//	DO_IT_AGAIN       300C
+//	START             3000
+//	NEWLINE           300F
+//	APPEND            3008
+//	INIT              3000
+//	ITERATE           300A
+//	$               3000
+//	$               3001
+//	$               3002
+//	$               3003
+//	$               3004
+//	$               3005
+//	$               3006
+//	$               3007
+//	$               3008
+//	$               3009
+//	$               300A
+//	$               300B
+//	$               300C
+

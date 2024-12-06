@@ -1,0 +1,19 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	HORSE             0207
+//	ZEBRA             020C
+//	BIRD              0203
+//	LIZARD            0208
+//	DOG               0205
+//	CAT               0204
+//	TURKEY            020B
+//	FISH              0206
+//	START             0200
+//	SALMON            020A
+//	MONKEY            0209
+//	$               0200
+//	$               0201
+//	$               0202
+
